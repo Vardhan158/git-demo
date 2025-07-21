@@ -1,2 +1,2 @@
 console.log('git demo');
-console.log('added a new line');
+console.log('This is a demo for git commands in VSCode');
